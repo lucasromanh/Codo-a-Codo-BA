@@ -1,0 +1,42 @@
+.logo {
+    height: 1rem;
+}
+
+.navbar-custom {
+    font-size: 1.2rem;
+}
+
+.nav-item-custom {
+    margin: auto 0.2rem;
+}
+
+.cover {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../Images/bsas1.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.speaker-tile {
+    max-width: 400px;
+}
+
+#details {
+    width: 97%;
+}
+
+@media (max-width: 768px) {
+    #details {
+        width: 94%;
+    }
+}
+
+.registration-form, .buy-tickets-info  {
+    max-width: 65vw !important;
+}
+
+
+.footer-custom {
+    background: linear-gradient(rgb(34, 47, 107), rgb(18, 25, 56) );
+}
+
+
