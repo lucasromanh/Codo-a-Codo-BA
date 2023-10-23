@@ -34,6 +34,14 @@
     max-width: 65vw !important;
 }
 
+.discount-category {
+    max-width: 300px !important;
+}
+
+#total-value{
+    display: none;
+}
+
 
 .footer-custom {
     background: linear-gradient(rgb(34, 47, 107), rgb(18, 25, 56) );
